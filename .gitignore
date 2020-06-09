@@ -23,3 +23,4 @@
 *.scss
 bootstrap/scss/_pagination.scss
 bootstrap/scss/_media.scss
+*.scss
