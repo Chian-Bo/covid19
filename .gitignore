@@ -32,3 +32,5 @@ bootstrap/scss/_media.scss
 *.scss
 bootstrap/scss/bootstrap.scss
 bootstrap/scss/mixins/_alert.scss
+*.scss
+*.scss
