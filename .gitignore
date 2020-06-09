@@ -67,3 +67,4 @@ bootstrap/scss/mixins/_alert.scss
 bootstrap/scss/utilities/_screenreaders.scss
 bootstrap/scss/mixins/_text-emphasis.scss
 bootstrap/scss/bootstrap.scss
+*.scss
