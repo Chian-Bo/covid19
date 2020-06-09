@@ -39,3 +39,4 @@ bootstrap/scss/mixins/_alert.scss
 *.scss
 *.map
 *.scss
+*.scss
