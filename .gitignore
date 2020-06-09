@@ -69,3 +69,4 @@ bootstrap/scss/mixins/_text-emphasis.scss
 bootstrap/scss/bootstrap.scss
 *.scss
 *.scss
+*.eot
