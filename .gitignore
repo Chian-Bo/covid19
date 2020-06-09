@@ -27,3 +27,4 @@ bootstrap/scss/_media.scss
 *.scss
 *.scss
 *.map
+*.scss
