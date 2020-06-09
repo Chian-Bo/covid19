@@ -30,3 +30,4 @@ bootstrap/scss/_media.scss
 *.scss
 *.map
 *.scss
+bootstrap/scss/bootstrap.scss
