@@ -31,3 +31,4 @@ bootstrap/scss/_media.scss
 *.map
 *.scss
 bootstrap/scss/bootstrap.scss
+bootstrap/scss/mixins/_alert.scss
