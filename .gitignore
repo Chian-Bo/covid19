@@ -44,3 +44,17 @@ bootstrap/scss/mixins/_alert.scss
 *.scss
 *.scss
 *.map
+*.scss
+bootstrap/scss/bootstrap.scss
+bootstrap/scss/bootstrap.scss
+bootstrap/scss/_media.scss
+bootstrap/scss/_print.scss
+bootstrap/scss/_badge.scss
+bootstrap/js/bootstrap.min.js.map
+bootstrap/js/bootstrap.js
+bootstrap/scss/bootstrap.scss
+bootstrap/scss/_media.scss
+bootstrap/scss/_print.scss
+bootstrap/scss/_badge.scss
+bootstrap/js/bootstrap.min.js.map
+bootstrap/js/bootstrap.js
