@@ -58,3 +58,9 @@ bootstrap/scss/_print.scss
 bootstrap/scss/_badge.scss
 bootstrap/js/bootstrap.min.js.map
 bootstrap/js/bootstrap.js
+bootstrap/js/bootstrap.min.js.map
+bootstrap/scss/_badge.scss
+bootstrap/scss/_media.scss
+bootstrap/scss/bootstrap.scss
+bootstrap/scss/_print.scss
+bootstrap/scss/mixins/_alert.scss
